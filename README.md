@@ -1,4 +1,4 @@
-# COMPS III: Assignment #3 - Polymorphism and Encapsulation
+# COMPS III: Assignment #4 - Polymorphism and Encapsulation
 
 ## Instructions
 
